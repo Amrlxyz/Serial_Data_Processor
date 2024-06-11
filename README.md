@@ -1,12 +1,12 @@
 # Serial Data Processor
 
-Captures data in the form of Comma Seperated Values from Serial and plots it graph
+Captures data in the form of Comma Seperated Values from Serial and plots the graph.
 
-This is extensively used for our ESP Line Following Robot / Buggy in which it was used to tune PID constants
+This is extensively used for our ESP Line Following Robot / Buggy in which it was used to log and tune PID constants.
 
-Currently, the usage of this code for other application might need small changes in the code.
+Currently, the usage of this code is currently limited only to the application of PID data.
 
-Not 100% complete since busy with exams. Expect updates during summer 2024.
+However, adapting to different use case should be as simple as changing the variable names in the list.
 
 ## Features
 
